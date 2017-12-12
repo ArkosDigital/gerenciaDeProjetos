@@ -1,171 +1,0 @@
-Gerenciamento do Tempo
-Joyce Gomes Silveira de Morais,
-PMP
-
-Introdução
-
-As 10 áreas de conhecimento
-
-Objetivo da Gerencia do Tempo
-
-O objetivo da gerência do tempo de projeto é planejar e
-controlar os processos requeridos, a fim de realizar as
-entregas no tempo previsto para o projeto, garantindo que
-o mesmo cumpra com os prazos definidos.
-
-Como fazer???
-• Processo 6.1: Planejar o Gerenciamento do Cronograma:
-– Para estabelecer COMO gerenciar o cronograma.
-– Estabelecer quantas reuniões, periodicidade.
-– Como vai executar todos os demais processos desta área de
-conhecimento.
-– Definição de quais ferramentas e técnicas serão usadas.
-Inclusive a forma como vai controlar o cronograma.
-
-Planejar o Gerenciamento do Cronograma
-Entradas
-Plano de
-Gerenciamento
-do Projeto
-
-Termo de
-Abertura do
-Projeto
-Fatores
-Ambientais
-
-Ferramentas e
-Técnicas
-Opinião
-Especializada
-Técnicas
-Analíticas
-
-Reuniões
-
-Saídas
-Plano de
-Gerenciamento
-do Cronograma
-
-O que está envolvido?
-• A máxima: “Tempo é lucro.”
-• Qual o custo de um atraso?
-• Um atraso pode significar a perda de
-oportunidade, ou de mercado.
-• O custo do improviso
-aumentando o tempo final.
-7
-
-Interfaces
-O importante é integrar!
-
-8
-
-Interfaces com demais áreas de conhecimento
-• Como fazer cronograma sem antes definir o
-escopo?
-• Como controlar recursos das atividades sem que
-os houvesse definido?
-• O que fazer se não houver integração?
-
-9
-
-PMBOK 5ª ed. P.145
-
-O que não é Gerenciamento do
-Tempo?
-Gerenciamento do Tempo não é Gerenciamento de Ferramenta
-(Project Builder, MS Project, Primavera, etc, …).
-A ferramenta, serve apenas para auxiliar no planejamento e
-controle.
-Cronograma é um resultado, e nele inserimos as informações
-referentes aos processos de planejamento e controle.
-11
-
-Um resultado
-
-PMBOK 5ª ed. P.144
-12
-
-PMBOK 5ª ed. P.144
-
-13
-
-O Cronograma
-• Gerenciar o cronograma enfatiza a importância da
-programação em Gerenciamento de Projetos.
-• No cronograma não se deve digitar datas
-simplesmente, isto seria uma agenda! Mas sim
-programar com o auxílio de técnicas e ferramentas,
-a fim de se chegar a um resultado não apenas
-informado, mas calculado, considerando estimativas,
-riscos.
-
-Dicas
-• Seu planejamento estará bom se estiver realista,
-Factível.
-• Estimativas realistas nem sempre agradam a todos, por
-isto, seja claro, objetivo e entregue planos alternativos
-para decisão. Gere alternativas sempre!
-• Para fazer estimativas realistas, é preciso acompanhar a
-forma como o tempo é gasto!
-• Não gere excesso de informação quando for planejar.
-• Planeje pensando em como vai controlar! Assim, evitará
-informação desnecessária no cronograma.
-15
-
-Os Processos no PMBOK
-• 6 Processos para planejamento
-• 1 Processo para controle
-Este resultado já é um indicador da importância de
-primeiro planejar para se saber o que será
-controlado.
-16
-
-Processos no PMBOK
-FASE PLANEJAMENTO
-–
-–
-–
-–
-–
-–
-
-6.1: Planejar o Gerenciamento do Cronograma
-6.2: Definir as atividades
-6.3: Sequenciar as atividades
-6.4: Estimar os recursos das atividades
-6.5: Estimar as durações das atividades
-6.6: Desenvolver o cronograma
-
-FASE CONTROLE
-– 6.7: Controlar o cronograma
-
-17
-
-Resumindo...
-
-Itens necessários para Planejar o tempo
-• Estrutura analítica do projeto – EAP: Principal entrada para a
-definição da atividade.
-• Declaração do escopo: As informações contidas na mesma devem ser
-consideradas, explicitamente, durante a definição das atividades.
-• Informações históricas: Atividades que foram realmente requeridas
-em projetos anteriores parecidos que devem ser consideradas.
-• Restrições: As restrições podem determinar, por exemplo, as
-ferramentas e formas de se executar uma tarefa.
-• Premissas: são fatores considerados verdadeiros para o planejamento
-do cronograma do projeto.
-19
-
-Itens de Controle do Tempo
-• Marcos: Checagem de cumprimento dos marcos
-• Verificar possíveis desvios do que foi planejado e ajustar:
-– Pontos de checagem
-– Mudanças no Cronograma
-– Investigar alternativas
-– Executar ajustes
-– Falhar no controle é investir no fracasso!
-
-
